@@ -14,7 +14,6 @@ This portfolio shows how to learn MySQL by building and maintaining a product da
 
 ### Step 3: Insert Valid Products
 -  Insert products with positive prices:
-  
   -  Laptop – 999.99
   -  Smartphone – 599.99
   -  Tablet – 299.99
