@@ -26,5 +26,16 @@ Skip products with negative prices.
 ### Step 4: Update the Table
 Change the product_name field to allow up to 120 characters.
 
+## Screenshots
+### Product Query Statement
+<img src="images/pro.png" alt="Alt Text" Width="900" heigth="300">
 
-<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+### Product Price Query Statement
+<img src="images/proprice.png" alt="Alt Text" Width="900" heigth="300">
+
+### Modify Query Statement
+<img src="images/mod.png" alt="Alt Text" Width="900" heigth="300">
+
+## Product Price Table
+<img src="images/proprice2.png" alt="Alt Text" Width="900" heigth="300">
+
