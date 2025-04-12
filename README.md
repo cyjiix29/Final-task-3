@@ -14,14 +14,15 @@ This portfolio shows how to learn MySQL by building and maintaining a product da
 
 ### Step 3: Insert Valid Products
 -  Insert products with positive prices:
--  Laptop – 999.99
--  Smartphone – 599.99
--  Tablet – 299.99
--  Keyboard – 19.99
--  Mouse – 14.99
--  Desk Lamp – 24.99
--  Speakers – 9.99
--  Skip products with negative prices.
+  
+  -  Laptop – 999.99
+  -  Smartphone – 599.99
+  -  Tablet – 299.99
+  -  Keyboard – 19.99
+  -  Mouse – 14.99
+  -  Desk Lamp – 24.99
+  -  Speakers – 9.99
+  -  Skip products with negative prices.
 
 ### Step 4: Update the Table
 -  Change the product_name field to allow up to 120 characters.
