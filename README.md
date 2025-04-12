@@ -27,4 +27,4 @@ Skip products with negative prices.
 Change the product_name field to allow up to 120 characters.
 
 
-
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
