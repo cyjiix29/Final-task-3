@@ -39,3 +39,5 @@ This portfolio shows how to learn MySQL by building and maintaining a product da
 ## Product Price Table
 <img src="images/proprice2.png" alt="Alt Text" Width="900" heigth="300">
 
+## ER Diagram
+<img src="images/erd.png" alt="Alt Text" Width="900" heigth="300">
