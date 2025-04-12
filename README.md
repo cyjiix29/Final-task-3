@@ -41,3 +41,6 @@ This portfolio shows how to learn MySQL by building and maintaining a product da
 
 ## ER Diagram
 <img src="images/erd.png" alt="Alt Text" Width="900" heigth="300">
+
+## Sql copy of the database and table structures
+<img src="images/pic.png" alt="Alt Text" Width="900" heigth="300">
